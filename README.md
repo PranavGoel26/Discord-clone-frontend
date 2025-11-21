@@ -42,23 +42,23 @@
 |-----------|----------|
 | **HTML5** | Structure |
 | **CSS3 / TailwindCSS** | Styling & layout |
-| **JavaScript** | Interactions (if used) |
+| **JavaScript** | Interactions |
 
 ---
 
 ## 📂 Folder Structure  
 discordClone/
-│── fonts/
-│── images/
-│── node_modules/
-│── index.html
-│── main.css
-│── tailwind.config.js
-│── postcss.config.js
-│── package.json
-│── package-lock.json
-│── .gitignore
-│── README.md
+├── fonts/
+├── images/
+├── node_modules/ # ignored in .gitignore
+├── index.html
+├── main.css
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+├── package-lock.json
+├── .gitignore
+└── README.md
 
 
 
