@@ -9,7 +9,8 @@ https://discord-clone-frontend-theta.vercel.app/#
 
 📸 Preview Screenshot
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/198781c0-eaf6-464f-af68-23473de263bb" />
+<img width="1890" height="777" alt="image" src="https://github.com/user-attachments/assets/005ff279-0291-4315-92a3-c43dfaa87a68" />
+
 
 
 🛠️ Tech Stack
