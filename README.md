@@ -56,7 +56,7 @@
 discordClone/
 ├── fonts/
 ├── images/
-├── node_modules/          # ignored in .gitignore
+├── node_modules/         
 ├── index.html
 ├── main.css
 ├── tailwind.config.js
@@ -65,7 +65,7 @@ discordClone/
 ├── package-lock.json
 ├── .gitignore
 └── README.md
-
+```
 
 
 ---
@@ -87,3 +87,4 @@ npx tailwindcss -i ./main.css -o ./dist/output.css --watch
 
 # Open index.html in browser
 
+```
