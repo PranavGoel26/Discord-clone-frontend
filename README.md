@@ -24,7 +24,7 @@
 ## 📸 Preview  
 *(Add a screenshot here — you can upload an image to the repo and link it like below)*
 
-
+![alt text](discord-clone-frontend-theta.vercel.app_.png)
 
 ---
 
