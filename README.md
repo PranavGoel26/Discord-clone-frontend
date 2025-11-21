@@ -22,9 +22,13 @@
 ---
 
 ## 📸 Preview  
-*(Add a screenshot here — you can upload an image to the repo and link it like below)*
 
-![alt text](discord-clone-frontend-theta.vercel.app_.png)
+<p align="center">
+  <img src="./images/preview.png" width="800" alt="Project Preview"/>
+</p>
+
+
+
 
 ---
 
@@ -46,11 +50,13 @@
 
 ---
 
-## 📂 Folder Structure  
+## 📂 Folder Structure
+
+```bash
 discordClone/
 ├── fonts/
 ├── images/
-├── node_modules/ # ignored in .gitignore
+├── node_modules/          # ignored in .gitignore
 ├── index.html
 ├── main.css
 ├── tailwind.config.js
